@@ -5,6 +5,7 @@
 <h2>👨‍💻 My Information Technology Projects:</h2>
 - <b>Networking</b>
   - [PAT Configuration](https://josh-it.github.io/PAT-Port-Address-Translation-/)
+  <br>
   - [Router on a Stick Configuration](https://josh-it.github.io/ROAS/)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
