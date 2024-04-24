@@ -9,7 +9,7 @@
   <br>
   - [Router on a Stick Configuration](https://josh-it.github.io/ROAS/)
 <br>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Link Aggregation Control Protocol](https://josh-it.github.io/LACP/)
 
 <h2>🤳Connect with me:</h2>
 
