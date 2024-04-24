@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 My Information Technology Projects:</h2>
 
+<h3>Personal Portfolio</h3>
+
 - <b>Port Address Translation</b>
   - [PAT Configuration](https://josh-it.github.io/PAT-Port-Address-Translation)
 - <b>Microsoft Azure</b>
