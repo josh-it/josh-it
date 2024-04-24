@@ -10,9 +10,8 @@
   - [Router on a Stick Configuration](https://josh-it.github.io/ROAS/)
 <br>
   - [Link Aggregation Control Protocol](https://josh-it.github.io/LACP/)
-  
- <b>Common Network Attacks</b>
-<br>
+  <br>
+   <b>Common Network Attacks</b>
 <br>
   - [PAT Configuration](https://josh-it.github.io/PAT-Port-Address-Translation-/) 
   <br>
