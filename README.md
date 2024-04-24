@@ -3,7 +3,7 @@
 [Personal Portfolio](https://github.com/joshmadakorcc/configure-ad)
 
 <h2>👨‍💻 My Information Technology Projects:</h2>
-- <b>Networking</b>
+ <b>Networking</b>
 <br>
   - [PAT Configuration](https://josh-it.github.io/PAT-Port-Address-Translation-/)
   <br>
