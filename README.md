@@ -13,7 +13,7 @@
   <br>
    <b>Common Network Attacks</b>
 <br>
-  - [PAT Configuration](https://josh-it.github.io/PAT-Port-Address-Translation-/) 
+  - [DNS Poisoning](https://josh-it.github.io/DNS-Poisoning/) 
   <br>
   - [Router on a Stick Configuration](https://josh-it.github.io/ROAS/)
 <br>
