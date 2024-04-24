@@ -3,11 +3,10 @@
 [Personal Portfolio](https://github.com/joshmadakorcc/configure-ad)
 
 <h2>👨‍💻 My Information Technology Projects:</h2>
-
+- <b>Networking</b>
 - <b>Port Address Translation</b>
   - [PAT Configuration](https://josh-it.github.io/PAT-Port-Address-Translation-/)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Router on a Stick Configuration](https://josh-it.github.io/ROAS/)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
