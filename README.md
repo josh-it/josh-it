@@ -15,4 +15,4 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: <a target="_blank" href="https://www.linkedin.com/in/josh-hawkins23/">Connect</a>
+[linkedin]: https://www.linkedin.com/in/josh-hawkins23/
