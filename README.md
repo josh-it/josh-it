@@ -18,6 +18,13 @@
   - [ARP Spoofing](https://josh-it.github.io/ARP-Spoofing/)
 <br>
   - [Brute Force Attack](https://josh-it.github.io/Brute-Force-Attack/)
+   <b>Network Hardening</b>
+<br>
+  - [MAC Filtering & Port Security](https://josh-it.github.io/MAC-Filtering-Port-Security/) 
+  <br>
+  - [ARP Spoofing](https://josh-it.github.io/ARP-Spoofing/)
+<br>
+  - [Brute Force Attack](https://josh-it.github.io/Brute-Force-Attack/)
 
 <h2>🤳Connect with me:</h2>
 
