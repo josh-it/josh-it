@@ -25,6 +25,8 @@
   <br>
   - [Access Control Lists](https://josh-it.github.io/Access-Control-Lists/) 
   <br>
+  - [DHCP Snooping](https://josh-it.github.io/DHCP-Snooping/) 
+  <br>
 
 
 <h2>🤳Connect with me:</h2>
