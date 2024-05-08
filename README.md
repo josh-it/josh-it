@@ -1,6 +1,6 @@
 <h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/josh-hawkins23/">IT Professional</a>☺</h1>
 
-[Personal Portfolio](https://github.com/joshmadakorcc/configure-ad)
+[Personal Portfolio](https://google.com)
 
 <h2>👨‍💻 My Information Technology Projects:</h2>
  <b>Networking</b>
