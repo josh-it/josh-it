@@ -27,6 +27,10 @@
   <br>
   - [DHCP Snooping](https://josh-it.github.io/DHCP-Snooping/) 
   <br>
+   <b>Cloud Concepts</b>
+<br>
+  - [IaC using Terraform](https://josh-it.github.io/IaC-using-Terraform/) 
+  <br>
 
 
 <h2>🤳Connect with me:</h2>
