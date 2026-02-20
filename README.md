@@ -1,7 +1,7 @@
 <h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/josh-hawkins23/">IT Professional</a>☺</h1>
 
 
-<h2>👨‍💻 My Information Technology Projects:</h2>
+<h2>Projects:</h2>
 
 
 
